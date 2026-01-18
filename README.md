@@ -1,16 +1,30 @@
-# React + Vite
+# Password Generator 🔐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A password generator application built using **React** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+👉 https://password-generator-sriman.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- React
+- Tailwind CSS
+- JavaScript
 
-## React Compiler
+## ✨ Features
+- Generates passwords with configurable options
+- Clean and responsive UI
+- Built with React functional components and hooks
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Screenshots
+<img width="1037" height="760" alt="image" src="https://github.com/user-attachments/assets/766b4b6c-af90-47a0-8949-00617394dae4" />
 
-## Expanding the ESLint configuration
+## 📂 Project Setup
+To run this project locally:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/sriman-codes/password-generator-react.git
+cd password-generator-react
+npm install
+npm run dev
+
+
